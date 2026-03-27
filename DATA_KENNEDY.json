@@ -1,0 +1,817 @@
+{
+  "metadata": {
+    "titulo": "Kennedy - Atenciones vs Encuestas de Satisfacción",
+    "periodo": "Enero 2025 - Febrero 2026",
+    "meta_cumplimiento": 70,
+    "sedes": {
+      "HCK": {
+        "nombre_completo": "Hospital Clínica Kennedy",
+        "areas": [
+          "ADMISION",
+          "CDI (AMB)",
+          "CONSULTA EXTERNA",
+          "EMERGENCIA"
+        ]
+      },
+      "HCKS": {
+        "nombre_completo": "Hospital Clínica Kennedy Samborondón",
+        "areas": [
+          "ADMISION",
+          "CDI (AMB)",
+          "EMERGENCIA",
+          "LABORATORIO (AMB)"
+        ]
+      }
+    }
+  },
+  "datos": {
+    "HCK": [
+      {
+        "mes": "2025-01",
+        "area": "ADMISION",
+        "porcentaje": 61.7,
+        "atenciones": 230,
+        "encuestas": 142
+      },
+      {
+        "mes": "2025-02",
+        "area": "ADMISION",
+        "porcentaje": 87.0,
+        "atenciones": 149,
+        "encuestas": 130
+      },
+      {
+        "mes": "2025-03",
+        "area": "ADMISION",
+        "porcentaje": 99.0,
+        "atenciones": 220,
+        "encuestas": 217
+      },
+      {
+        "mes": "2025-04",
+        "area": "ADMISION",
+        "porcentaje": 96.0,
+        "atenciones": 191,
+        "encuestas": 184
+      },
+      {
+        "mes": "2025-05",
+        "area": "ADMISION",
+        "porcentaje": 92.0,
+        "atenciones": 211,
+        "encuestas": 194
+      },
+      {
+        "mes": "2025-06",
+        "area": "ADMISION",
+        "porcentaje": 78.0,
+        "atenciones": 218,
+        "encuestas": 170
+      },
+      {
+        "mes": "2025-07",
+        "area": "ADMISION",
+        "porcentaje": 85.0,
+        "atenciones": 197,
+        "encuestas": 168
+      },
+      {
+        "mes": "2025-08",
+        "area": "ADMISION",
+        "porcentaje": 91.0,
+        "atenciones": 227,
+        "encuestas": 206
+      },
+      {
+        "mes": "2025-09",
+        "area": "ADMISION",
+        "porcentaje": 94.0,
+        "atenciones": 206,
+        "encuestas": 194
+      },
+      {
+        "mes": "2025-10",
+        "area": "ADMISION",
+        "porcentaje": 76.0,
+        "atenciones": 181,
+        "encuestas": 138
+      },
+      {
+        "mes": "2025-11",
+        "area": "ADMISION",
+        "porcentaje": 55.0,
+        "atenciones": 173,
+        "encuestas": 95
+      },
+      {
+        "mes": "2025-12",
+        "area": "ADMISION",
+        "porcentaje": 74.0,
+        "atenciones": 141,
+        "encuestas": 104
+      },
+      {
+        "mes": "2026-01",
+        "area": "ADMISION",
+        "porcentaje": 94.0,
+        "atenciones": 180,
+        "encuestas": 169
+      },
+      {
+        "mes": "2026-02",
+        "area": "ADMISION",
+        "porcentaje": 88.0,
+        "atenciones": 189,
+        "encuestas": 167
+      },
+      {
+        "mes": "2025-01",
+        "area": "CDI (AMB)",
+        "porcentaje": 65.0,
+        "atenciones": 597,
+        "encuestas": 388
+      },
+      {
+        "mes": "2025-02",
+        "area": "CDI (AMB)",
+        "porcentaje": 77.0,
+        "atenciones": 594,
+        "encuestas": 458
+      },
+      {
+        "mes": "2025-03",
+        "area": "CDI (AMB)",
+        "porcentaje": 76.0,
+        "atenciones": 622,
+        "encuestas": 475
+      },
+      {
+        "mes": "2025-04",
+        "area": "CDI (AMB)",
+        "porcentaje": 68.0,
+        "atenciones": 572,
+        "encuestas": 387
+      },
+      {
+        "mes": "2025-05",
+        "area": "CDI (AMB)",
+        "porcentaje": 70.0,
+        "atenciones": 519,
+        "encuestas": 362
+      },
+      {
+        "mes": "2025-06",
+        "area": "CDI (AMB)",
+        "porcentaje": 59.0,
+        "atenciones": 537,
+        "encuestas": 315
+      },
+      {
+        "mes": "2025-07",
+        "area": "CDI (AMB)",
+        "porcentaje": 51.0,
+        "atenciones": 534,
+        "encuestas": 271
+      },
+      {
+        "mes": "2025-08",
+        "area": "CDI (AMB)",
+        "porcentaje": 51.0,
+        "atenciones": 514,
+        "encuestas": 262
+      },
+      {
+        "mes": "2025-09",
+        "area": "CDI (AMB)",
+        "porcentaje": 63.0,
+        "atenciones": 564,
+        "encuestas": 354
+      },
+      {
+        "mes": "2025-10",
+        "area": "CDI (AMB)",
+        "porcentaje": 59.0,
+        "atenciones": 534,
+        "encuestas": 317
+      },
+      {
+        "mes": "2025-11",
+        "area": "CDI (AMB)",
+        "porcentaje": 48.0,
+        "atenciones": 516,
+        "encuestas": 247
+      },
+      {
+        "mes": "2025-12",
+        "area": "CDI (AMB)",
+        "porcentaje": 47.0,
+        "atenciones": 510,
+        "encuestas": 239
+      },
+      {
+        "mes": "2026-01",
+        "area": "CDI (AMB)",
+        "porcentaje": 64.0,
+        "atenciones": 601,
+        "encuestas": 382
+      },
+      {
+        "mes": "2026-02",
+        "area": "CDI (AMB)",
+        "porcentaje": 56.0,
+        "atenciones": 519,
+        "encuestas": 293
+      },
+      {
+        "mes": "2025-01",
+        "area": "EMERGENCIA",
+        "porcentaje": 51.9,
+        "atenciones": 362,
+        "encuestas": 188
+      },
+      {
+        "mes": "2025-02",
+        "area": "EMERGENCIA",
+        "porcentaje": 81.0,
+        "atenciones": 276,
+        "encuestas": 223
+      },
+      {
+        "mes": "2025-03",
+        "area": "EMERGENCIA",
+        "porcentaje": 92.0,
+        "atenciones": 318,
+        "encuestas": 294
+      },
+      {
+        "mes": "2025-04",
+        "area": "EMERGENCIA",
+        "porcentaje": 143.0,
+        "atenciones": 289,
+        "encuestas": 413
+      },
+      {
+        "mes": "2025-05",
+        "area": "EMERGENCIA",
+        "porcentaje": 102.0,
+        "atenciones": 348,
+        "encuestas": 355
+      },
+      {
+        "mes": "2025-06",
+        "area": "EMERGENCIA",
+        "porcentaje": 105.0,
+        "atenciones": 316,
+        "encuestas": 332
+      },
+      {
+        "mes": "2025-07",
+        "area": "EMERGENCIA",
+        "porcentaje": 116.0,
+        "atenciones": 366,
+        "encuestas": 424
+      },
+      {
+        "mes": "2025-08",
+        "area": "EMERGENCIA",
+        "porcentaje": 111.0,
+        "atenciones": 356,
+        "encuestas": 396
+      },
+      {
+        "mes": "2025-09",
+        "area": "EMERGENCIA",
+        "porcentaje": 118.0,
+        "atenciones": 344,
+        "encuestas": 405
+      },
+      {
+        "mes": "2025-10",
+        "area": "EMERGENCIA",
+        "porcentaje": 77.0,
+        "atenciones": 351,
+        "encuestas": 270
+      },
+      {
+        "mes": "2025-11",
+        "area": "EMERGENCIA",
+        "porcentaje": 78.0,
+        "atenciones": 299,
+        "encuestas": 233
+      },
+      {
+        "mes": "2025-12",
+        "area": "EMERGENCIA",
+        "porcentaje": 110.0,
+        "atenciones": 239,
+        "encuestas": 263
+      },
+      {
+        "mes": "2026-01",
+        "area": "EMERGENCIA",
+        "porcentaje": 144.0,
+        "atenciones": 281,
+        "encuestas": 404
+      },
+      {
+        "mes": "2026-02",
+        "area": "EMERGENCIA",
+        "porcentaje": 114.0,
+        "atenciones": 276,
+        "encuestas": 316
+      },
+      {
+        "mes": "2025-01",
+        "area": "CONSULTA EXTERNA",
+        "porcentaje": 93.4,
+        "atenciones": 136,
+        "encuestas": 127
+      },
+      {
+        "mes": "2025-02",
+        "area": "CONSULTA EXTERNA",
+        "porcentaje": 98.0,
+        "atenciones": 157,
+        "encuestas": 154
+      },
+      {
+        "mes": "2025-03",
+        "area": "CONSULTA EXTERNA",
+        "porcentaje": 92.0,
+        "atenciones": 249,
+        "encuestas": 230
+      },
+      {
+        "mes": "2025-04",
+        "area": "CONSULTA EXTERNA",
+        "porcentaje": 94.0,
+        "atenciones": 249,
+        "encuestas": 234
+      },
+      {
+        "mes": "2025-05",
+        "area": "CONSULTA EXTERNA",
+        "porcentaje": 93.0,
+        "atenciones": 287,
+        "encuestas": 267
+      },
+      {
+        "mes": "2025-06",
+        "area": "CONSULTA EXTERNA",
+        "porcentaje": 101.0,
+        "atenciones": 336,
+        "encuestas": 339
+      },
+      {
+        "mes": "2025-07",
+        "area": "CONSULTA EXTERNA",
+        "porcentaje": 98.0,
+        "atenciones": 332,
+        "encuestas": 327
+      },
+      {
+        "mes": "2025-08",
+        "area": "CONSULTA EXTERNA",
+        "porcentaje": 98.0,
+        "atenciones": 244,
+        "encuestas": 238
+      },
+      {
+        "mes": "2025-09",
+        "area": "CONSULTA EXTERNA",
+        "porcentaje": 90.0,
+        "atenciones": 266,
+        "encuestas": 240
+      },
+      {
+        "mes": "2025-10",
+        "area": "CONSULTA EXTERNA",
+        "porcentaje": 92.0,
+        "atenciones": 238,
+        "encuestas": 218
+      },
+      {
+        "mes": "2025-11",
+        "area": "CONSULTA EXTERNA",
+        "porcentaje": 102.0,
+        "atenciones": 163,
+        "encuestas": 166
+      },
+      {
+        "mes": "2025-12",
+        "area": "CONSULTA EXTERNA",
+        "porcentaje": 96.0,
+        "atenciones": 180,
+        "encuestas": 172
+      },
+      {
+        "mes": "2026-01",
+        "area": "CONSULTA EXTERNA",
+        "porcentaje": 94.0,
+        "atenciones": 174,
+        "encuestas": 163
+      },
+      {
+        "mes": "2026-02",
+        "area": "CONSULTA EXTERNA",
+        "porcentaje": 93.0,
+        "atenciones": 167,
+        "encuestas": 156
+      }
+    ],
+    "HCKS": [
+      {
+        "mes": "2025-01",
+        "area": "ADMISION",
+        "porcentaje": 33.1,
+        "atenciones": 269,
+        "encuestas": 89
+      },
+      {
+        "mes": "2025-02",
+        "area": "ADMISION",
+        "porcentaje": 62.0,
+        "atenciones": 254,
+        "encuestas": 158
+      },
+      {
+        "mes": "2025-03",
+        "area": "ADMISION",
+        "porcentaje": 75.0,
+        "atenciones": 280,
+        "encuestas": 211
+      },
+      {
+        "mes": "2025-04",
+        "area": "ADMISION",
+        "porcentaje": 67.0,
+        "atenciones": 253,
+        "encuestas": 170
+      },
+      {
+        "mes": "2025-05",
+        "area": "ADMISION",
+        "porcentaje": 72.0,
+        "atenciones": 232,
+        "encuestas": 166
+      },
+      {
+        "mes": "2025-06",
+        "area": "ADMISION",
+        "porcentaje": 60.0,
+        "atenciones": 281,
+        "encuestas": 168
+      },
+      {
+        "mes": "2025-07",
+        "area": "ADMISION",
+        "porcentaje": 42.0,
+        "atenciones": 315,
+        "encuestas": 133
+      },
+      {
+        "mes": "2025-08",
+        "area": "ADMISION",
+        "porcentaje": 52.0,
+        "atenciones": 281,
+        "encuestas": 145
+      },
+      {
+        "mes": "2025-09",
+        "area": "ADMISION",
+        "porcentaje": 24.0,
+        "atenciones": 256,
+        "encuestas": 62
+      },
+      {
+        "mes": "2025-10",
+        "area": "ADMISION",
+        "porcentaje": 31.0,
+        "atenciones": 286,
+        "encuestas": 89
+      },
+      {
+        "mes": "2025-11",
+        "area": "ADMISION",
+        "porcentaje": 43.0,
+        "atenciones": 258,
+        "encuestas": 110
+      },
+      {
+        "mes": "2025-12",
+        "area": "ADMISION",
+        "porcentaje": 30.0,
+        "atenciones": 248,
+        "encuestas": 75
+      },
+      {
+        "mes": "2026-01",
+        "area": "ADMISION",
+        "porcentaje": 44.0,
+        "atenciones": 307,
+        "encuestas": 135
+      },
+      {
+        "mes": "2026-02",
+        "area": "ADMISION",
+        "porcentaje": 29.0,
+        "atenciones": 229,
+        "encuestas": 67
+      },
+      {
+        "mes": "2025-01",
+        "area": "CDI (AMB)",
+        "porcentaje": 64.3,
+        "atenciones": 876,
+        "encuestas": 563
+      },
+      {
+        "mes": "2025-02",
+        "area": "CDI (AMB)",
+        "porcentaje": 72.0,
+        "atenciones": 840,
+        "encuestas": 606
+      },
+      {
+        "mes": "2025-03",
+        "area": "CDI (AMB)",
+        "porcentaje": 74.0,
+        "atenciones": 759,
+        "encuestas": 560
+      },
+      {
+        "mes": "2025-04",
+        "area": "CDI (AMB)",
+        "porcentaje": 57.0,
+        "atenciones": 834,
+        "encuestas": 475
+      },
+      {
+        "mes": "2025-05",
+        "area": "CDI (AMB)",
+        "porcentaje": 55.0,
+        "atenciones": 876,
+        "encuestas": 481
+      },
+      {
+        "mes": "2025-06",
+        "area": "CDI (AMB)",
+        "porcentaje": 94.0,
+        "atenciones": 882,
+        "encuestas": 830
+      },
+      {
+        "mes": "2025-07",
+        "area": "CDI (AMB)",
+        "porcentaje": 82.0,
+        "atenciones": 1059,
+        "encuestas": 869
+      },
+      {
+        "mes": "2025-08",
+        "area": "CDI (AMB)",
+        "porcentaje": 79.0,
+        "atenciones": 936,
+        "encuestas": 736
+      },
+      {
+        "mes": "2025-09",
+        "area": "CDI (AMB)",
+        "porcentaje": 70.0,
+        "atenciones": 849,
+        "encuestas": 595
+      },
+      {
+        "mes": "2025-10",
+        "area": "CDI (AMB)",
+        "porcentaje": 42.0,
+        "atenciones": 861,
+        "encuestas": 358
+      },
+      {
+        "mes": "2025-11",
+        "area": "CDI (AMB)",
+        "porcentaje": 46.0,
+        "atenciones": 782,
+        "encuestas": 357
+      },
+      {
+        "mes": "2025-12",
+        "area": "CDI (AMB)",
+        "porcentaje": 49.0,
+        "atenciones": 749,
+        "encuestas": 365
+      },
+      {
+        "mes": "2026-01",
+        "area": "CDI (AMB)",
+        "porcentaje": 46.0,
+        "atenciones": 897,
+        "encuestas": 411
+      },
+      {
+        "mes": "2026-02",
+        "area": "CDI (AMB)",
+        "porcentaje": 54.0,
+        "atenciones": 745,
+        "encuestas": 406
+      },
+      {
+        "mes": "2025-01",
+        "area": "EMERGENCIA",
+        "porcentaje": 18.4,
+        "atenciones": 850,
+        "encuestas": 156
+      },
+      {
+        "mes": "2025-02",
+        "area": "EMERGENCIA",
+        "porcentaje": 40.0,
+        "atenciones": 686,
+        "encuestas": 276
+      },
+      {
+        "mes": "2025-03",
+        "area": "EMERGENCIA",
+        "porcentaje": 72.0,
+        "atenciones": 777,
+        "encuestas": 559
+      },
+      {
+        "mes": "2025-04",
+        "area": "EMERGENCIA",
+        "porcentaje": 68.0,
+        "atenciones": 730,
+        "encuestas": 495
+      },
+      {
+        "mes": "2025-05",
+        "area": "EMERGENCIA",
+        "porcentaje": 75.0,
+        "atenciones": 737,
+        "encuestas": 552
+      },
+      {
+        "mes": "2025-06",
+        "area": "EMERGENCIA",
+        "porcentaje": 52.0,
+        "atenciones": 789,
+        "encuestas": 410
+      },
+      {
+        "mes": "2025-07",
+        "area": "EMERGENCIA",
+        "porcentaje": 35.0,
+        "atenciones": 755,
+        "encuestas": 263
+      },
+      {
+        "mes": "2025-08",
+        "area": "EMERGENCIA",
+        "porcentaje": 29.0,
+        "atenciones": 839,
+        "encuestas": 245
+      },
+      {
+        "mes": "2025-09",
+        "area": "EMERGENCIA",
+        "porcentaje": 7.0,
+        "atenciones": 695,
+        "encuestas": 46
+      },
+      {
+        "mes": "2025-10",
+        "area": "EMERGENCIA",
+        "porcentaje": 5.0,
+        "atenciones": 747,
+        "encuestas": 38
+      },
+      {
+        "mes": "2025-11",
+        "area": "EMERGENCIA",
+        "porcentaje": 11.0,
+        "atenciones": 719,
+        "encuestas": 78
+      },
+      {
+        "mes": "2025-12",
+        "area": "EMERGENCIA",
+        "porcentaje": 3.0,
+        "atenciones": 761,
+        "encuestas": 23
+      },
+      {
+        "mes": "2026-01",
+        "area": "EMERGENCIA",
+        "porcentaje": 19.0,
+        "atenciones": 776,
+        "encuestas": 151
+      },
+      {
+        "mes": "2026-02",
+        "area": "EMERGENCIA",
+        "porcentaje": 2.0,
+        "atenciones": 624,
+        "encuestas": 15
+      },
+      {
+        "mes": "2025-01",
+        "area": "LABORATORIO (AMB)",
+        "porcentaje": 77.9,
+        "atenciones": 539,
+        "encuestas": 420
+      },
+      {
+        "mes": "2025-02",
+        "area": "LABORATORIO (AMB)",
+        "porcentaje": 81.0,
+        "atenciones": 426,
+        "encuestas": 343
+      },
+      {
+        "mes": "2025-03",
+        "area": "LABORATORIO (AMB)",
+        "porcentaje": 74.0,
+        "atenciones": 437,
+        "encuestas": 324
+      },
+      {
+        "mes": "2025-04",
+        "area": "LABORATORIO (AMB)",
+        "porcentaje": 82.0,
+        "atenciones": 428,
+        "encuestas": 349
+      },
+      {
+        "mes": "2025-05",
+        "area": "LABORATORIO (AMB)",
+        "porcentaje": 83.0,
+        "atenciones": 477,
+        "encuestas": 396
+      },
+      {
+        "mes": "2025-06",
+        "area": "LABORATORIO (AMB)",
+        "porcentaje": 77.0,
+        "atenciones": 409,
+        "encuestas": 316
+      },
+      {
+        "mes": "2025-07",
+        "area": "LABORATORIO (AMB)",
+        "porcentaje": 70.0,
+        "atenciones": 423,
+        "encuestas": 294
+      },
+      {
+        "mes": "2025-08",
+        "area": "LABORATORIO (AMB)",
+        "porcentaje": 77.0,
+        "atenciones": 444,
+        "encuestas": 340
+      },
+      {
+        "mes": "2025-09",
+        "area": "LABORATORIO (AMB)",
+        "porcentaje": 71.0,
+        "atenciones": 385,
+        "encuestas": 274
+      },
+      {
+        "mes": "2025-10",
+        "area": "LABORATORIO (AMB)",
+        "porcentaje": 75.0,
+        "atenciones": 391,
+        "encuestas": 292
+      },
+      {
+        "mes": "2025-11",
+        "area": "LABORATORIO (AMB)",
+        "porcentaje": 81.0,
+        "atenciones": 395,
+        "encuestas": 318
+      },
+      {
+        "mes": "2025-12",
+        "area": "LABORATORIO (AMB)",
+        "porcentaje": 76.0,
+        "atenciones": 449,
+        "encuestas": 343
+      },
+      {
+        "mes": "2026-01",
+        "area": "LABORATORIO (AMB)",
+        "porcentaje": 86.0,
+        "atenciones": 449,
+        "encuestas": 385
+      },
+      {
+        "mes": "2026-02",
+        "area": "LABORATORIO (AMB)",
+        "porcentaje": 54.0,
+        "atenciones": 491,
+        "encuestas": 265
+      }
+    ]
+  }
+}
